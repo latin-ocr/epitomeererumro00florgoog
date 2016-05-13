@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epitomeererumro00florgoog_0151.png"; bbox 0 0 2813 4718; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 232 3648 2167 3852">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 232 3648 2167 3840">
+     <span class='ocr_line' id='line_1_1' title="bbox 232 3648 2167 3838; baseline 0.049 -148.488"><span class='ocrx_word' id='word_1_1' title='bbox 232 3648 692 3765; x_wconf 41' lang='grc' dir='ltr'><em>ΞΨΜ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 704 3648 793 3756; x_wconf 60' lang='lat' dir='ltr'><em>hJc</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 808 3702 1159 3838; x_wconf 42' lang='lat' dir='ltr'><em>astutamque</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1177 3650 1318 3781; x_wconf 64' lang='grc'><strong>(148.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1342 3707 1654 3793; x_wconf 62' lang='lat' dir='ltr'><em>uvamque)</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1672 3724 1861 3790; x_wconf 76' lang='lat' dir='ltr'><em>parat.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1900 3717 2167 3781; x_wconf 76' lang='lat' dir='ltr'><em>dextram-</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 262 3785 1044 3852; baseline 0.031 -32"><span class='ocrx_word' id='word_1_8' title='bbox 262 3792 267 3796; x_wconf 95' lang='lat'>·</span> <span class='ocrx_word' id='word_1_9' title='bbox 556 3790 568 3800; x_wconf 77' lang='lat'><strong><em>‘</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 685 3794 786 3852; x_wconf 71' lang='lat' dir='ltr'><em>que</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 809 3785 952 3840; x_wconf 78' lang='lat' dir='ltr'><em>mina</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 977 3799 1044 3838; x_wconf 72' lang='lat'><em>¹⁴¹·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 181 3794 2173 4006">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 181 3794 2173 4006">
+     <span class='ocr_line' id='line_1_3' title="bbox 181 3794 2173 4006; baseline 0.031 -108"><span class='ocrx_word' id='word_1_13' title='bbox 181 3933 215 3951; x_wconf 83' lang='lat'><em>..</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 357 3869 409 3914; x_wconf 64' lang='lat'><em>:1</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 305 3794 760 3928; x_wconf 45' lang='lat' dir='ltr'><em>&amp;finden</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 792 3859 943 3920; x_wconf 70' lang='lat' dir='ltr'><em>redit</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 944 3857 1057 3922; x_wconf 60' lang='lat' dir='ltr'><em>huc</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1079 3858 1234 3923; x_wconf 69' lang='lat' dir='ltr'><em>oculu</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 1259 3856 1326 3932; x_wconf 69' lang='grc' dir='ltr'><em>ὁ·</em></span> <span class='ocrx_word' id='word_1_20' title='bbox 1341 3843 1555 3940; x_wconf 60' lang='grc' dir='ltr'><em>ΜᾸΜ</em></span> <span class='ocrx_word' id='word_1_21' title='bbox 1571 3863 1778 3943; x_wconf 56' lang='grc' dir='ltr'><strong><em>Βθόνῖ*</em></strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 2090 3945 2173 4006; x_wconf 41' lang='grc' dir='ltr'><strong>ἢ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epitomeererumro00florgoog_0357.png"; bbox 0 0 2813 4718; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 878 1440 1911 1557">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 878 1440 1911 1557">
+     <span class='ocr_line' id='line_1_1' title="bbox 878 1440 1911 1557; baseline -0.003 -13"><span class='ocrx_word' id='word_1_1' title='bbox 878 1440 1694 1557; x_wconf 82' lang='lat' dir='ltr'><strong>LUCIUS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1908 1473 1911 1476; x_wconf 87' lang='grc'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 327 1668 2265 1853">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 327 1668 2265 1853">
+     <span class='ocr_line' id='line_1_2' title="bbox 327 1668 2265 1853; baseline 0.004 -7.007"><span class='ocrx_word' id='word_1_3' title='bbox 327 1668 2265 1853; x_wconf 88' lang='lat' dir='ltr'>AMPELIUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 623 1987 2177 2290">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 623 1987 2177 2290">
+     <span class='ocr_line' id='line_1_3' title="bbox 623 1987 2177 2082; baseline 0.003 -13"><span class='ocrx_word' id='word_1_4' title='bbox 623 1993 807 2069; x_wconf 74' lang='lat' dir='ltr'><strong>Ex</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 897 1987 1982 2073; x_wconf 75' lang='lat' dir='ltr'>BIBLIOTHECA</span> <span class='ocrx_word' id='word_1_6' title='bbox 2174 2081 2177 2082; x_wconf 5' lang='grc' dir='ltr'><em>ᾗ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 686 2198 1889 2290; baseline 0.001 -1"><span class='ocrx_word' id='word_1_7' title='bbox 686 2198 925 2290; x_wconf 59' lang='lat' dir='ltr'><strong>‘Cui</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1029 2198 1889 2290; x_wconf 66' lang='lat' dir='ltr'><strong>SALuA‘sxz.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
